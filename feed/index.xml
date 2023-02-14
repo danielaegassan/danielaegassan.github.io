@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Daniela Egas Santander</title>
-	<atom:link href="http://danielaegassan.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>http://danielaegassan.github.io/</link>
+	<atom:link href="/daniela-egas-santander.local/feed/" rel="self" type="application/rss+xml" />
+	<link>/daniela-egas-santander.local/</link>
 	<description></description>
 	<lastBuildDate>Tue, 14 Feb 2023 09:38:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://danielaegassan.github.io/hello-world/</link>
-					<comments>http://danielaegassan.github.io/hello-world/#comments</comments>
+		<link>/daniela-egas-santander.local/hello-world/</link>
+					<comments>/daniela-egas-santander.local/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[danielaegassan]]></dc:creator>
 		<pubDate>Tue, 14 Feb 2023 09:38:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://danielaegassan.github.io/?p=1</guid>
+		<guid isPermaLink="false">/daniela-egas-santander.local/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://danielaegassan.github.io/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/daniela-egas-santander.local/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
