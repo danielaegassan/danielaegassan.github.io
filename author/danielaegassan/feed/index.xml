@@ -12,7 +12,7 @@
 	<atom:link href="https://danielaegassan.github.io/author/danielaegassan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://danielaegassan.github.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 14 Feb 2023 09:38:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Feb 2023 20:59:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>Testing this thing</title>
+		<link>https://danielaegassan.github.io/testing-this-thing/</link>
+					<comments>https://danielaegassan.github.io/testing-this-thing/#respond</comments>
+		
+		<dc:creator><![CDATA[danielaegassan]]></dc:creator>
+		<pubDate>Tue, 14 Feb 2023 20:59:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://danielaegassan.github.io/?p=80</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://danielaegassan.github.io/testing-this-thing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>https://danielaegassan.github.io/hello-world/</link>
 					<comments>https://danielaegassan.github.io/hello-world/#comments</comments>
