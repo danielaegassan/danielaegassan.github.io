@@ -60,7 +60,24 @@ var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-rig
 <link rel="shortlink" href="https://danielaegassan.github.io/">
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://danielaegassan.github.io/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhttps%3A%2F%2Fdanielaegassan.github.io%2F">
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://danielaegassan.github.io/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhttps%3A%2F%2Fdanielaegassan.github.io%2F&amp;format=xml">
-</head>
+		<style id="wp-custom-css">
+			/* force the button to be a flex row and center vertically */
+.wp-block-button .wp-block-button__link.wp-element-button {
+  display: inline-flex !important;    /* make it a flex container */
+  align-items: center !important;     /* centers on cross-axis (vertical for row) */
+  gap: 8px;
+}
+
+/* make the image not sit on the text baseline */
+.wp-block-button .wp-block-button__link img {
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  vertical-align: middle;
+}
+		</style>
+		</head>
 
 <body class="home wp-singular page-template-default page page-id-5 wp-embed-responsive wp-theme-twentyseventeen twentyseventeen-front-page has-header-image page-one-column colors-light">
 <div id="page" class="site">
