@@ -1,0 +1,14 @@
+title: Daniela Egas Santander
+description: Algebraic topologist and data scientist working on questions in computational neuroscience and biology.
+url: https://danielaegassan.github.io
+baseurl: ""
+
+markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,13 @@
+# The menu at the top of every page, in this order.
+- title: Home
+  url: /
+- title: Research
+  url: /research/
+- title: Organized events
+  url: /conferences-and-seminars/
+- title: Talks
+  url: /talks/
+- title: Teaching
+  url: /teaching/
+- title: Contact
+  url: /contact/
