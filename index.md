@@ -26,3 +26,7 @@ For an overview of my current research you can have a look at these talks:
     </figcaption>
   </figure>
 </div>
+
+## Contact
+
+{% include contact.html %}

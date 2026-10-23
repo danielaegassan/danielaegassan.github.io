@@ -11,7 +11,8 @@ Personal website, built by GitHub Pages with Jekyll. There is nothing to install
 | Organized events              | `conferences-and-seminars.md` |
 | Talks                         | `talks.md`                    |
 | Teaching                      | `teaching.md`                 |
-| Contact links and photo       | `contact.md`                  |
+| Photo and contact icons       | `_includes/contact.html`      |
+| Meeting page (not in menu)    | `availability.md`             |
 | Menu items and their order    | `_data/navigation.yml`        |
 | Colors, fonts, spacing        | `assets/css/style.css`        |
 | Page frame (header, menu)     | `_layouts/default.html`       |
