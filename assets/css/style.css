@@ -5,7 +5,7 @@
   --link: #2b5a9e;     /* Andean sky */
   --rule: #dce1e7;
   --accent: #74802f;   /* páramo grass */
-  --measure: 40rem;
+  --measure: 48rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -143,7 +143,7 @@ li { margin-bottom: .55rem; }
 .note { font-size: .92rem; }
 
 /* Home: featured talks */
-.home main > .talks { max-width: none; }
+.home main > .talks { max-width: var(--measure); }
 
 .talks {
   display: grid;
